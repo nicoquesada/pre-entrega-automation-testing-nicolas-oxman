@@ -1,6 +1,6 @@
-# pre-entrega-automation-testing-nicolas-oxman
+pre-entrega-automation-testing-nicolas-oxman
 Pruebas automatizadas para el sitio Sauce Demo, desarrolladas en Python con Pytest y Selenium WebDriver. Valida funciones clave como login, inventario y carrito, aplicando buenas prácticas de testing y generación de reportes HTML.
- 
+
 Propósito del proyecto
 Con el fin de ahorrar tiempo y recursos, se quiere automatizar flujos críticos de módulos de:
 
@@ -15,14 +15,3 @@ Estructura de carpetas
 README.md
 
 pytest.ini (Configuraciones iniciales pytest)
-
-test/
-
-funciones.py 
-test_login.py
-test_nav_inv.py
-test_carrito.py
-reportes.html
-Ejecución de tests
-Para correr todos los tests, utilizar el siguiente archivo
-run.py
